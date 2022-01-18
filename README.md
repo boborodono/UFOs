@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview
-This project was devised to help Dana, a data journalist, determine UFO sightings in an easy to read website that will support her upcoming article with a table that utilizes filters using ES6 and Javascript to query the data.
+This project was devised to help Dana, a data journalist, share UFO sightings in an easy to read website. The site will support her upcoming article by showcasing a table that utilizes filters using ES6 and Javascript to query the data.
 
 
 ## Results
@@ -19,7 +19,7 @@ To get the most out of the acquired data we have built a customizable filtering 
 The filters can also be combined to capture even more granular information such as all the sightings of unexplainable "light" phenomena on January 1st, 2010 in California. (See below)
 <br/> <br/>![Multiple Filters](/Images/multi-filter.png)<br/>
 
-<---------------------------------------------------------------------------------------------------------------------------><br/>
+<--------------------------------------------------------------------------------------------------------------------------->
 ### More to come!
 <br/>I have also included the ability to search by country. However, that functionality will be included in future iterations as we continue to grow the dataset as only sightings from the United States are available at this time.
 
