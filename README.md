@@ -8,16 +8,16 @@ This project was devised to help Dana, a data journalist, share UFO sightings in
 To get the most out of the acquired data we have built a customizable filtering system into the table. Anyone using the webpage can focus their search to drill down into sightings from specific...
 
 ### Dates...
-<br/> ![Date Filter](/Images/date_filter.png)<br/>
+<br/> ![Date Filter](/Images/date_filter.PNG)<br/>
 ### Cities...
-<br/>![City Filter](/Images/city_filter.png)<br/>
+<br/>![City Filter](/Images/city_filter.PNG)<br/>
 ### States...
-<br/>![State Filter](/Images/state_filter.png)<br/>
+<br/>![State Filter](/Images/state_filter.PNG)<br/>
 ### ...and shapes of observed phenomena.
-<br/>![Shape Filter](/Images/shape_filter.png)<br/>
+<br/>![Shape Filter](/Images/shape_filter.PNG)<br/>
 
 The filters can also be combined to capture even more granular information such as all the sightings of unexplainable "light" phenomena on January 1st, 2010 in California. (See below)
-<br/> <br/>![Multiple Filters](/Images/multi-filter.png)<br/>
+<br/> <br/>![Multiple Filters](/Images/multi-filter.PNG)<br/>
 
 <--------------------------------------------------------------------------------------------------------------------------->
 ### More to come!
@@ -36,5 +36,5 @@ In developing this new tool I have determined that some drawbacks of the current
 Some features that we would like to include in future developments are...
 
 - the names of individuals that witnessed the recorded phenomena...
-- and times of day that the UFOs were spotted.
-- a map to display the locations of each event.
+- times of day that the UFOs were spotted.
+- and a map to display the locations of each event.
