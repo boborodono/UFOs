@@ -19,8 +19,22 @@ To get the most out of the acquired data we have built a customizable filtering 
 The filters can also be combined to capture even more granular information such as all the sightings of unexplainable "light" phenomena on January 1st, 2010 in California. (See below)
 <br/> <br/>![Multiple Filters](/Images/multi-filter.png)<br/>
 
-<----------------------------------------------------------------------------------------------------------------->
+<---------------------------------------------------------------------------------------------------------------------------><br/>
+### More to come!
 <br/>I have also included the ability to search by country. However, that functionality will be included in future iterations as we continue to grow the dataset as only sightings from the United States are available at this time.
 
 ## Summary
 
+### Drawbacks
+In developing this new tool I have determined that some drawbacks of the current design...
+- are not having the ability to slice by month, day of the week, or year.
+    - We currently only have data for the first fourteen days of 2010 but that ability can be added in the future when more information is added. <br/>
+
+- and not including whether the observed UFOs were identified and what the phenomena was determined to be...
+
+### Recommendations
+Some features that we would like to include in future developments are...
+
+- the names of individuals that witnessed the recorded phenomena...
+- and times of day that the UFOs were spotted.
+- a map to display the locations of each event.
